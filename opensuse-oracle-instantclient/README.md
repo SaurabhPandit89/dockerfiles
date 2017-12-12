@@ -5,6 +5,6 @@ Dockerfile to create docker image of openSUSE with oracle instant client
 
 1. Download below mentioned Oracle instant client from [here](http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html)
   1. oracle-instantclientXX-basic-XX.X.X.X.X-X.x86_64.rpm
-  2. oracle-instantclientXX-devel-XX.X.X.X.X-X.x86_64.rpm
-  3. oracle-instantclientXX-sqlplus-XX.X.X.X.X-X.x86_64.rpm
-2. Copy and paste the files from downloaded folder to the dockerfile folder
+  1. oracle-instantclientXX-devel-XX.X.X.X.X-X.x86_64.rpm
+  1. oracle-instantclientXX-sqlplus-XX.X.X.X.X-X.x86_64.rpm
+1. Copy and paste the files from downloaded folder to the dockerfile folder
